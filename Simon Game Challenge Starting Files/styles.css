@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.button{
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  background-color: #030637;
+  color: white;
+  border-radius: 1rem;
+}
