@@ -79,7 +79,7 @@ function animatePress(currentColour){
         }, 100);
 }
 ////////////////////////////////////////////////////////////////
-$(document).keypress(function(){
+$(".button").click(function(){
      if(!started){
      $("#level-title").text("Level " +level);
       nextSequence();
